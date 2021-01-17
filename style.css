@@ -201,14 +201,14 @@ letter-spacing: 6px;
 
 @media(min-width: 0px) and (max-width:279px) {
     .showcase,.showcase header{
-        padding: 10px;
+        padding: 2px;
     }
 
     .text h2{
-        font-size: 1em;
+        font-size: .5em;
     }
 
     .text h3{
-        font-size: .5em;
+        font-size: .2em;
     }
 }
