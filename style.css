@@ -185,7 +185,7 @@ letter-spacing: 6px;
     }
 }
 
-@media(min-width: 80px) and (max-width:359px) {
+@media(min-width: 280px) and (max-width:359px) {
     .showcase,.showcase header{
         padding: 30px;
     }
@@ -196,5 +196,19 @@ letter-spacing: 6px;
 
     .text h3{
         font-size: 1.5em;
+    }
+}
+
+@media(min-width: 0px) and (max-width:279px) {
+    .showcase,.showcase header{
+        padding: 10px;
+    }
+
+    .text h2{
+        font-size: 1em;
+    }
+
+    .text h3{
+        font-size: .5em;
     }
 }
