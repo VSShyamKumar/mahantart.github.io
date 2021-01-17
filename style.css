@@ -211,4 +211,10 @@ letter-spacing: 6px;
     .text h3{
         font-size: .2em;
     }
+     .text p{
+        font-size: .5em;
+        margin:20px 0;
+        font-weight: 200;
+        max-width: 350px;
+    }
 }
