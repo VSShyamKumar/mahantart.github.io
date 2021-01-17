@@ -124,7 +124,7 @@ letter-spacing: 6px;
 
 .social{
     position:absolute;
-    bottom: 20px;
+    bottom: 40px;
     z-index: 10;
     display: flex;
     justify-content: center;
